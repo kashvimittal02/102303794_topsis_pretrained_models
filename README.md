@@ -215,7 +215,7 @@ python topsis.py
 
 ```
 TOPSIS-Conversational-AI
- ┣ topsis.py
+ ┣ topsis.ipynb
  ┣ result.png
  ┗ README.md
 ```
